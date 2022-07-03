@@ -1,7 +1,7 @@
-# Salesforce-Developer-Trails
+<h1 align="center">🏆 Salesforce-Developer-Trails 🏆</h1>
 This is a Study repository created to track the Trails on Trailhead for Salesforce Developers
 
-## Trail - Developer Beginner
+# Trail - Developer Beginner
 Leverage your existing development skills to build apps fast on the Salesforce Platform.
 
 
